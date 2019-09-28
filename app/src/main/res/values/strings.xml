@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Occasion Reminder</string>
     <string name="action_about">About</string>
+    <string name="note">Note: All events are repeated annually</string>
+    <string name="save">SAVE</string>
+    <string name="notify_time">Enter notify time(hh-mm)</string>
+    <string name="occasion_date">Enter occasion date(dd-mm-yyyy)</string>
+    <string name="name">Enter the Name</string>
+    <string name="occasion_name">Enter the Occasion</string>
 </resources>
